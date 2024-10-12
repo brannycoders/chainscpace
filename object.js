@@ -32,7 +32,7 @@ const person = {
 };
 
 const car = {
-    brand: "Toyota",   // String value for brand
+    brand: "Toyota",   // String value for brand/
     name: "Corolla",   // String value for name
     model: "SE",       // String value for model
     year: 2020,        // Number value for year
