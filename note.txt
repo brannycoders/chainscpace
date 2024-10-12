@@ -1,0 +1,12 @@
+let name = "John"; // Declaring and initializing a variable 'name' with the value "John"
+const age = 30;    // Declaring a constant 'age' with the value 30
+var city = "Austin"; // Declaring a 'var' variable 'city' with the value "Austin"
+
+
+let firstName = "Nathaniel"; // 'let' declares a variable that can be reassigned
+const birthYear = 1990;      // 'const' declares a constant that cannot be changed
+var job = "Engineer";        // 'var' declares a variable, which can be redeclared or reassigned
+
+console.log(firstName); // Logs "Nathaniel"
+console.log(birthYear); // Logs 1990
+console.log(job);       // Logs "Engineer"
